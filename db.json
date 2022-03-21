@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "name": "Mohammad",
+      "gender": "male",
+      "dept": "IT",
+      "role": "Dev",
+      "salary": 2345,
+      "id": 1
+    },
+    {
+      "name": "Jeevan",
+      "gender": "male",
+      "dept": "HR",
+      "role": "manager",
+      "salary": 12344,
+      "id": 2
+    }
+  ]
+}
